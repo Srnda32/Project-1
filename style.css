@@ -1,0 +1,194 @@
+body {
+    margin: 0;
+}
+
+html {
+    margin-bottom: 0;
+
+    background-color: #e3e3e3;
+    width: 100%;
+}
+
+a {
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.image-container {
+    margin-left: 40px;
+
+}
+
+.image-container img {
+    object-fit: cover;
+    padding: 2px;
+    width: 300px;
+    height: 300px;
+}
+
+#pa2 {
+    text-align: center;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.image-container>div {
+    display: inline-block;
+    margin: .75rem .5rem;
+    background: #fff;
+}
+
+#h2body {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+.header img {
+    width: 50px;
+    height: 50px;
+}
+
+.header {
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(36, 36, 36);
+    align-items: center;
+    margin: 0;
+    display: flex;
+}
+
+.header>h2 {
+    padding-left: 10px;
+}
+
+h3 {
+    padding-left: 20px;
+    margin-top: 0;
+    display: inline-block;
+}
+
+.wrapper {
+    padding-left: 20px;
+    display: flex;
+    margin-top: 3px;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
+
+}
+
+.css-clock {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: #636363;
+    position: relative;
+    display: block;
+
+}
+
+.wrapper>p {
+    font-size: 11px;
+    padding-left: 6px;
+    margin-top: 2px;
+    display: flex;
+}
+
+p {
+    padding-left: 20px;
+}
+
+.LoginButton {
+    background-color: #32de84;
+    color: azure;
+    cursor: pointer;
+    outline: 0;
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    padding: 3px 20px;
+    font-size: 1rem;
+    border-radius: .25rem;
+    color: rgb(226, 255, 226);
+    ;
+    border-color: #32de84;
+    ;
+    margin: 0 auto;
+    margin-right: 5px;
+}
+
+.logolink {
+    text-decoration: none;
+}
+
+#East {
+    display: inline-block;
+    color: azure;
+}
+
+#Sara {
+    display: inline-block;
+    color: #32de84;
+}
+
+.txt {
+    font-size: xxx-large;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -200%);
+}
+
+#imgCity {
+    margin-top: 70.8px;
+    margin-bottom: 190px;
+    width: 100%;
+    height: 400px;
+}
+
+.CityCont {
+    text-align: center;
+}
+
+.belp>a {
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+#allp {
+    text-align: center;
+}
+
+.contant {
+    text-align: center;
+    color: white;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+
+#Copyright {
+    color: white;
+    text-align: end;
+}
+
+footer {
+    padding: 1px;
+    background-color: rgb(36, 36, 36);
+}
+
+footer>a {
+    padding-left: 15px;
+}
